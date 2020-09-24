@@ -3,3 +3,4 @@ Practicing Python by building an interactive text game.
 
 # Demo
 
+![hippo](https://gfycat.com/powerfulnegativedrongo)
