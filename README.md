@@ -3,4 +3,4 @@ Practicing Python by building an interactive text game.
 
 # Demo
 
-<iframe src='https://gfycat.com/ifr/PowerfulNegativeDrongo' frameborder='0' scrolling='no' allowfullscreen width='640' height='794'></iframe>
+<iframe src="https://giphy.com/embed/SAIsZMtjSVOjzrGvdj" width="410" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SAIsZMtjSVOjzrGvdj">via GIPHY</a></p>
